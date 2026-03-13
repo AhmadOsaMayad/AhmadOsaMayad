@@ -9,6 +9,7 @@
 - 🏆 My graduation project "Dallal" (94% grade) connects Yemen's real estate market with AI-powered price prediction
 - 🌍 Bilingual developer (English & Arabic) open to international remote work
 - ✍️ English teacher turned coder | Arabic literary writer | Lifelong learner
+- 🤖 Passionate about AI Prompt Engineering - crafting effective interactions with LLMs
 
 ### 🛠️ Tech Stack
 **Core:**  
@@ -24,6 +25,8 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+<!-- Gemini Certified Prompt Engineer (coming soon!) -->
 
 ### 📌 Featured Projects
 
@@ -38,13 +41,14 @@
 ### 🌱 Currently
 - Deepening Flutter expertise through advanced courses
 - Building real-world projects daily
+- Mastering AI Prompt Engineering (Gemini certification in progress 🤫)
 - Preparing to contribute to open source
 
 ### 📫 Let's Connect!
 - 💼 Open to **full-time opportunities** & **freelance**
 - 🌐 Remote? **Absolutely!** (That's why I use Git & GitHub)
-- 📧 *ao699168@gmail.com*
-- 📞 *(+967 774 188 043)*
+- 📧 ao699168@gmail.com
+- 📞 (+967 774 188 043)
 
 ---
 
