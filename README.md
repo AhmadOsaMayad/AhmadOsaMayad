@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 📱 I build mobile experiences with Flutter that solve real problems
-- 🏆 My graduation project "Dallal" (94%) connects Yemen's real estate market with AI-powered price prediction
+- 🏆 My graduation project "Dallal" (94% grade) connects Yemen's real estate market with AI-powered price prediction
 - 🌍 Bilingual developer (English & Arabic) open to international remote work
 - ✍️ English teacher turned coder | Arabic literary writer | Lifelong learner
 
@@ -29,10 +29,10 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Dallal**](https://github.com/AhmadOsaMayad/dallal_proj) | Real estate platform connecting Yemen buyers & sellers with AI price prediction | Flutter, Firebase, ML |
+| [**Dallal**](https://github.com/AhmadOsaMayad/dallal_proj) | Real estate platform connecting Yemen buyers & sellers with AI price prediction | Flutter, REST APIs, ML |
 | [**Chat App**](https://github.com/AhmadOsaMayad/chat-app) | Real-time messaging with authentication | Flutter, Firebase |
 | [**Bookly App**](https://github.com/AhmadOsaMayad/bookly_app) | Book discovery and management app | Flutter, REST APIs |
-| [**Notes App**](https://github.com/AhmadOsaMayad/notes_app) | CRUD operations with local storage | Flutter, SQLite |
+| [**Notes App**](https://github.com/AhmadOsaMayad/notes_app) | CRUD operations with local storage | Flutter, Hive |
 | [**Toku App**](https://github.com/AhmadOsaMayad/toku_app) | English-Japanese learning with multimedia | Flutter |
 
 ### 🌱 Currently
@@ -44,7 +44,7 @@
 - 💼 Open to **full-time opportunities** & **freelance**
 - 🌐 Remote? **Absolutely!** (That's why I use Git & GitHub)
 - 📧 *ao699168@gmail.com*
-
+- 📞 *(+967 774 188 043)*
 
 ---
 
