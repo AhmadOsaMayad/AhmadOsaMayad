@@ -2,6 +2,8 @@
 
 **Mobile Application Developer | Flutter Specialist | CS Graduate**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadosamayad.github.io-2c3e50?style=for-the-badge&logo=github&logoColor=white)](https://ahmadosamayad.github.io)
+
 *"Building apps and teaching English – I bring the same passion for clear communication and creative problem-solving to every project."*
 
 ---
@@ -64,6 +66,7 @@
 
 - 💼 Open to **full-time roles** & **freelance projects**
 - 🌐 Remote-ready (Git & GitHub are my office)
+- 🌍 **Portfolio:** [ahmadosamayad.github.io](https://ahmadosamayad.github.io)
 - 📧 ao699168@gmail.com
 - 📞 (+967 774 188 043)
 - 🐙 [GitHub](https://github.com/AhmadOsaMayad)
