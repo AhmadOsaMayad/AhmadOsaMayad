@@ -5,11 +5,11 @@
 
 <div align="center">
   <a href="https://ahmadosamayad.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:4338CA,100:0891B2&height=210&section=header&text=Ahmad%20Osama%20Mayad&fontSize=46&fontColor=FFFFFF&desc=Flutter%20Engineer%20%C2%B7%20Offline-first%20apps%20that%20feel%20alive&descSize=16&fontAlignY=38&descAlignY=58&animation=fadeIn" alt="Ahmad Osama Mayad — Flutter Engineer" width="100%">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:4338CA,100:0891B2&height=210&section=header&text=Ahmad%20Osama%20Mayad&fontSize=46&fontColor=FFFFFF&desc=Flutter%20Engineer%20%C2%B7%20I%20ship%20apps%20that%20feel%20alive&descSize=16&fontAlignY=38&descAlignY=58&animation=fadeIn" alt="Ahmad Osama Mayad — Flutter Engineer" width="100%">
   </a>
 
   <a href="https://github.com/AhmadOsaMayad?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=560&height=45&lines=Flutter+%26+Dart+Engineer;Offline-first+mobile+architecture;EN+%E2%87%84+AR+bilingual+products;Prompt+engineering+with+Gemini" alt="Flutter and Dart Engineer · Offline-first mobile architecture · English and Arabic bilingual products · Prompt engineering with Gemini">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=560&height=45&lines=Flutter+%26+Dart+Engineer;Product-grade+mobile+architecture;EN+%E2%87%84+AR+bilingual+products;Prompt+engineering+with+Gemini" alt="Flutter and Dart Engineer · Product-grade mobile architecture · English and Arabic bilingual products · Prompt engineering with Gemini">
   </a>
 
   <br>
